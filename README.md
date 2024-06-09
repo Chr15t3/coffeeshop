@@ -16,11 +16,6 @@ Software desenvolvido com base em um vídeo do Youtube com algumas modificaçõe
 
 <br>
 
-<p align="center">
-  <img alt="Projeto Cafeteria" src="./assets/images/projetofinal.png
-" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,10 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um modelo de sites para cafeterias de médio/alto padrão
 
-
 ## 🔓 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
-
